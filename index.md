@@ -39,5 +39,12 @@
         </div>
         
         <script src="app.js"></script>
+            <script> 
+        function myalert() { 
+            alert("Welcome to My assignment.\n " + 
+                "This is a 2-player game." +  
+                         "set your final score.\n" + "And start the game by clicking \"Roll Dice\" "); 
+        } 
+    </script> 
     </body>
 </html>
